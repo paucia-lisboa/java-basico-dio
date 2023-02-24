@@ -1,2 +1,4 @@
 # java-basico-dio
-Repositorio para armazenar codihos do b...
+
+Repositório para armazenar códigos do curso de Java,
+fonecido pelo Bootcamp Orange Tech + | BackEnd.
